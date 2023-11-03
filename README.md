@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Yekoye Admassue
 - 👀 I’m interested in frontend,backend and fullstack Development
 - 🌱 I’m currently learning Information Syetem at Addis Ababa University
-# my Portifolio Wwebsite
+# my Portifolio Website
 
   # https://yekoye-portifolio.vercel.app/
 
